@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tommager1107
 - 👀 I’m interested in Pyton and HTML
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning css, java
 - 📫 How to reach me: discord  itz_tommager
 
 <!---
