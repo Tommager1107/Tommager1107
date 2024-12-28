@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tommager1107
 - 👀 I’m interested in Pyton and HTML
 - 🌱 I’m currently learning css, java
-- 📫 How to reach me: discord  itz_tommager
+- 📫 How to reach me: https://discord.shyguyparadise.eu
 
 <!---
 Tommager1107/Tommager1107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
